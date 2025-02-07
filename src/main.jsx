@@ -12,14 +12,23 @@ import Toggle from "./components/Toggle.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <Toggle />
-
+    <br />
+    <br />
     <Stopwatch />
+    <br />
+    <br />
     <Calculator />
+    <br />
+    <br />
     <Todolist />
     <br />
     <br />
     <Fetch />
+    <br />
+    <br />
     <Fetch2 />
+    <br />
+    <br />
     <br />
 
     {/* <App /> */}
